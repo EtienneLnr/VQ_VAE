@@ -1,5 +1,5 @@
-# RepresentationLearningForStructuredTimeSeries
+# VQVAEForStructuredTimeSeries
 
-Github repository for the representation learning for structured time series project.
+Github repository for the self supervised learning time series project.
 
 Infos about code structure later
